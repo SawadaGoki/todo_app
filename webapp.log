@@ -1,0 +1,27 @@
+2022/04/13 15:02:52 main.go:12: test
+2022/04/13 18:13:04 users.go:29: sql: converting argument $1 type: unsupported type func() uuid.UUID, a func
+2022/04/13 18:38:36 users.go:60: near "where": syntax error
+2022/04/13 22:41:02 users.go:48: sql: no rows in result set
+2022/04/13 22:41:25 users.go:48: sql: no rows in result set
+2022/04/13 22:42:42 users.go:48: sql: no rows in result set
+2022/04/13 22:43:18 users.go:48: sql: no rows in result set
+2022/04/13 22:43:32 users.go:48: sql: no rows in result set
+2022/04/13 22:43:58 users.go:48: sql: no rows in result set
+2022/04/13 22:44:19 users.go:48: sql: no rows in result set
+2022/04/13 22:44:29 users.go:48: sql: no rows in result set
+2022/04/14 22:27:09 users.go:48: sql: no rows in result set
+2022/04/15 15:59:56 users.go:48: sql: no rows in result set
+2022/04/15 16:00:08 users.go:48: sql: no rows in result set
+2022/04/15 16:00:29 users.go:48: sql: no rows in result set
+2022/04/15 16:01:15 users.go:48: sql: no rows in result set
+2022/04/16 16:20:17 users.go:98: sql: no rows in result set
+2022/04/16 17:13:40 users.go:98: sql: no rows in result set
+2022/04/16 17:15:46 users.go:98: sql: no rows in result set
+2022/04/16 17:16:22 route_auth.go:44: sql: no rows in result set
+2022/04/16 17:17:41 users.go:98: sql: no rows in result set
+2022/04/16 17:17:41 route_auth.go:44: sql: no rows in result set
+2022/04/16 17:17:41 server.go:3197: http: superfluous response.WriteHeader call from todo_app/app/controllers.handleAuth (route_auth.go:65)
+2022/04/16 17:17:57 users.go:98: sql: no rows in result set
+2022/04/16 17:17:57 route_auth.go:44: sql: no rows in result set
+2022/04/16 17:17:57 server.go:3197: http: superfluous response.WriteHeader call from todo_app/app/controllers.handleAuth (route_auth.go:65)
+2022/04/16 18:16:49 users.go:142: sql: no rows in result set
